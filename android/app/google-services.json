@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413994741374",
+    "firebase_url": "https://vendu-dc735.firebaseio.com",
+    "project_id": "vendu-dc735",
+    "storage_bucket": "vendu-dc735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413994741374:android:9b87af1dc03078fb41322f",
+        "android_client_info": {
+          "package_name": "com.example.vendu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413994741374-p54k0mc8qu7hnnatc1pkhu19bkcah0uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwYxG2B9Rm359YkJ6vySORrO1UyfJYWek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413994741374-p54k0mc8qu7hnnatc1pkhu19bkcah0uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
